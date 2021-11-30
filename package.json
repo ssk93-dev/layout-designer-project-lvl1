@@ -1,0 +1,27 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "layot-designer-lvl1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssk93-dev/layout-designer-project-lvl1.git"
+  },
+  "author": "Sergey Kalikin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ssk93-dev/layout-designer-project-lvl1/issues"
+  },
+  "homepage": "https://github.com/ssk93-dev/layout-designer-project-lvl1#readme",
+  "devDependencies": {
+    "htmlhint": "^1.0.0",
+    "stylelint": "^14.1.0",
+    "stylelint-config-rational-order": "^0.1.2",
+    "stylelint-config-standard": "^24.0.0",
+    "stylelint-order": "^5.0.0",
+    "surge": "^0.23.0"
+  }
+}
